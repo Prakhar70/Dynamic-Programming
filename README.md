@@ -2,8 +2,8 @@
 
 ## 1D DP
 
-1. Climbing stairs
-2. Frog Jump
+1. Climbing stairs Done
+2. Frog Jump Done
 3. Frog jump with K distances
 4. Maximum sum of non adjacent elements
 5. House robber
