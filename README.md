@@ -12,7 +12,9 @@
 
 ## 2D DP
 
-1. Ninja's training
+| Serial Number | Question | Status|
+| ------------- | ------ | ---- |
+| 1 | Ninja's training | Done |
 
 ## DP on grids
 
