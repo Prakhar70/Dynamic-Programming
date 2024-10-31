@@ -2,11 +2,13 @@
 
 ## 1D DP
 
-1. Climbing stairs Done
-2. Frog Jump Done
-3. Frog jump with K distances
-4. Maximum sum of non adjacent elements
-5. House robber
+| Serial Number | Question | Status|
+| ------------- | :------: | :----: |
+| 1 | Climbing stairs | Done |
+| 2 | Frog Jump Done | Done |
+| 3 | Frog jump with K distances | In Progress |
+| 4 | Maximum sum of non adjacent elements | In Progress |
+| 5 | House robber | In Progress |
 
 ## 2D DP
 
