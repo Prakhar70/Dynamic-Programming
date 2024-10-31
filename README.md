@@ -3,10 +3,10 @@
 ## 1D DP
 
 | Serial Number | Question | Status|
-| ------------- | ------ | :----: |
+| ------------- | ------ | ---- |
 | 1 | Climbing stairs | Done |
 | 2 | Frog Jump Done | Done |
-| 3 | Frog jump with K distances | In Progress |
+| 3 | Frog jump with K distances | Done |
 | 4 | Maximum sum of non adjacent elements | In Progress |
 | 5 | House robber | In Progress |
 
