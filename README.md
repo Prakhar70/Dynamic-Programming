@@ -8,7 +8,7 @@
 | 2 | Frog Jump Done | Done |
 | 3 | Frog jump with K distances | Done |
 | 4 | Maximum sum of non adjacent elements | Done |
-| 5 | House robber | In Progress |
+| 5 | House robber | Done |
 
 ## 2D DP
 
