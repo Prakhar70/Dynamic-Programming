@@ -3,7 +3,7 @@
 ## 1D DP
 
 | Serial Number | Question | Status|
-| ------------- | :------: | :----: |
+| ------------- | ------ | :----: |
 | 1 | Climbing stairs | Done |
 | 2 | Frog Jump Done | Done |
 | 3 | Frog jump with K distances | In Progress |
