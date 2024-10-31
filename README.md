@@ -7,7 +7,7 @@
 | 1 | Climbing stairs | Done |
 | 2 | Frog Jump Done | Done |
 | 3 | Frog jump with K distances | Done |
-| 4 | Maximum sum of non adjacent elements | In Progress |
+| 4 | Maximum sum of non adjacent elements | Done |
 | 5 | House robber | In Progress |
 
 ## 2D DP
