@@ -18,11 +18,14 @@
 
 ## DP on grids
 
-1. Grid unique paths
-2. Unique paths II
-3. Minimum path sum in grid
-4. Triangle
-5. Cherry pickup II
+| Serial Number | Question | Status|
+| ------------- | ------ | ---- |
+| 1 | Grid unique paths | Done |
+| 2 | Unique paths II | Done |
+| 3 | Minimum path sum in grid | Done |
+| 4 | Triangle | Done |
+| 5 | Cherry pickup II | Done |
+
 
 ## DP on stocks
 
