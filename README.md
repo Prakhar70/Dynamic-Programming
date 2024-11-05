@@ -44,7 +44,7 @@
 3. Partition a set into two subsets with minimum absolute sum difference Done
 4. Count subsets with sum K Done
 5. Count partitions with given difference Done
-6. 0 and 1 Knapsack
+6. 0 and 1 Knapsack Done
 7. Minimum coins
 8. Target sum
 9. Coin change II
