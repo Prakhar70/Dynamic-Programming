@@ -29,11 +29,13 @@
 
 ## DP on stocks
 
-1. Best time to buy and sell stock
-2. Best time to buy and sell stock II
-3. Best time to buy and sell stock III
-4. Best time to buy and sell stock IV
-5. Best time to buy and sell stock with transaction fees
+| Serial Number | Question | Status|
+| ------------- | ------ | ---- |
+| 1 | Best time to buy and sell stock | Done |
+| 2 | Best time to buy and sell stock II | Done |
+| 3 | Best time to buy and sell stock III | Done |
+| 4 | Best time to buy and sell stock IV | Done |
+| 5 | Best time to buy and sell stock with transaction fees | Done | 
 
 ## DP on subsequence
 
