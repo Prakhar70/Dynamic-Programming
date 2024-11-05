@@ -42,8 +42,8 @@
 1. Subset sum equals to target Done
 2. Partition equal subset sumn Done 
 3. Partition a set into two subsets with minimum absolute sum difference Done
-4. Count subsets with sum K 
-5. Count partitions with given difference
+4. Count subsets with sum K Done
+5. Count partitions with given difference Done
 6. 0 and 1 Knapsack
 7. Minimum coins
 8. Target sum
