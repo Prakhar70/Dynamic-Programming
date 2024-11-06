@@ -1,4 +1,4 @@
-package DPOnStocks;
+package DPOnSubSequence;
 
 import java.util.Arrays;
 public class Knapsack01 {

@@ -48,8 +48,8 @@
 7. Minimum coins Done
 8. Target sum Done
 9. Coin change II Done
-10. Unbounded knapsack
-11. Rod cutting problem
+10. Unbounded knapsack Done
+11. Rod cutting problem Done
 
 ## DP on strings
 
