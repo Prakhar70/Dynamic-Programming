@@ -47,7 +47,7 @@
 6. 0 and 1 Knapsack Done
 7. Minimum coins Done
 8. Target sum Done
-9. Coin change II
+9. Coin change II Done
 10. Unbounded knapsack
 11. Rod cutting problem
 
