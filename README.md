@@ -45,7 +45,7 @@
 4. Count subsets with sum K Done
 5. Count partitions with given difference Done
 6. 0 and 1 Knapsack Done
-7. Minimum coins
+7. Minimum coins Done
 8. Target sum
 9. Coin change II
 10. Unbounded knapsack
