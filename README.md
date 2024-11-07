@@ -60,7 +60,7 @@
 3. Longest palindromic subsequence Done
 4. Minimum insertions to make string palindrome Done
 5. Minimum insertions or deletions to convert string A to B Done
-6. Shortest common supersequence
+6. Shortest common supersequence Done Imp Revise
 7. Distinct subsequences
 8. Edit distance
 9. Wildcard matching
