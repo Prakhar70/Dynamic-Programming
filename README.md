@@ -39,17 +39,19 @@
 
 ## DP on subsequence
 
-1. Subset sum equals to target Done
-2. Partition equal subset sumn Done 
-3. Partition a set into two subsets with minimum absolute sum difference Done
-4. Count subsets with sum K Done
-5. Count partitions with given difference Done
-6. 0 and 1 Knapsack Done
-7. Minimum coins Done
-8. Target sum Done
-9. Coin change II Done
-10. Unbounded knapsack Done
-11. Rod cutting problem Done
+| Serial Number | Question | Status|
+| ------------- | ------ | ---- |
+| 1 | Subset sum equals to target | Done |
+| 2 | Partition equal subset sum | Done |
+| 3 | Partition a set into two subsets with minimum absolute sum difference | Done |
+| 4 | Count subsets with sum K | Done |
+| 5 | Count partitions with given difference | Done |
+| 6 | 0 and 1 Knapsack | Done | 
+| 7 | Minimum coins | Done | 
+| 8 | Target sum | Done | 
+| 9 | Coin change II | Done | 
+| 10 | Unbounded knapsack | Done | 
+| 11 | Rod cutting problem | Done | 
 
 ## DP on strings
 
