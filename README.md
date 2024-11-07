@@ -58,7 +58,7 @@
 1. Longest common subsequence Done
 2. Longest common substring Done
 3. Longest palindromic subsequence Done
-4. Minimum insertions to make string palindrome
+4. Minimum insertions to make string palindrome Done
 5. Minimum insertions or deletions to convert string A to B
 6. Shortest common supersequence
 7. Distinct subsequences
