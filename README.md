@@ -55,15 +55,19 @@
 
 ## DP on strings
 
-1. Longest common subsequence Done
-2. Longest common substring Done
-3. Longest palindromic subsequence Done
-4. Minimum insertions to make string palindrome Done
-5. Minimum insertions or deletions to convert string A to B Done
-6. Shortest common supersequence Done Imp Revise
-7. Distinct subsequences Done
-8. Edit distance Done
-9. Wildcard matching Done
+
+| Serial Number | Question | Status|
+| ------------- | ------ | ---- |
+| 1 | Longest common subsequence | Done |
+| 2 | Longest common substring | Done |
+| 3 | Longest palindromic subsequence | Done |
+| 4 | Minimum insertions to make string palindrome | Done |
+| 5 | Minimum insertions or deletions to convert string A to B | Done |
+| 6 | Shortest common supersequence | Done |
+| 7 | Distinct subsequences | Done | 
+| 8 | Edit distance | Done | 
+| 9 | Wildcard matching | Done | 
+
 
 ## MCM DP
 
