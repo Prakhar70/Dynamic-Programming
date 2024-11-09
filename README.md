@@ -63,7 +63,7 @@
 6. Shortest common supersequence Done Imp Revise
 7. Distinct subsequences Done
 8. Edit distance Done
-9. Wildcard matching
+9. Wildcard matching Done
 
 ## MCM DP
 
