@@ -1,6 +1,6 @@
 package Level2;
 
-public class Q035_WildCharacterMatching {
+public class Q036_WildCharacterMatching {
     public boolean isMatch(String s, String p) {
         int n = p.length();
         int m = s.length();

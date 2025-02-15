@@ -1,6 +1,6 @@
 1. Largest Square Submatrix of all 1's                  --- Q001_MaximalSquare.java Leetcode 221
 2. Print all Paths with Minimum Jumps                   --- Q002_PrintPathMinJumps.java 
-3. Print All Minimum Cost Paths Dynamic Programming 
+3. Print All Minimum Cost Paths Dynamic Programming     --- Q003_MinCostPath.java
 4. Print Paths with Maximum Gold                        --- Q003_GoldMine.java
 5. Print Subsets with Target Sum                        --- Q004_TargetSum.java
 6. Paths of 0-1 Knapsack Problem                        --- Q006_Knapsack.java
@@ -32,9 +32,9 @@
 32. Count Palindromic Substrings                        --- Q032_CountPalindromicSubString.java
 33. Longest Palindromic Substring                       --- Q033_LongestPalindromicSubString.java
 34. Count Distinct Subsequences                         --- Q034_CounDistinctSubSequence.java
-35. Count Distinct Palindromic Subsequences             --- Q035_WildCharacterMatching.java
-36. Wildcard Matching Dynamic Programming
-37. Regular Expression Matching
-38. Longest Common Substring 
+35. Count Distinct Palindromic Subsequences             
+36. Wildcard Matching Dynamic Programming               --- Q036_WildCharacterMatching.java
+37. Regular Expression Matching                         --- Q037_RegularExpression.java (Leetcode 10)
+38. Longest Common Substring                            --- Q038_LongestCommonSubString.java
 39. Longest Repeating Subsequence
 40. Edit Distance
