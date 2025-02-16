@@ -17,7 +17,7 @@ public class Q022_MatrixMultiplication {
             return 0;
         }
         int min = Integer.MAX_VALUE;
-        for(int k=i;k<j;k++){
+        for(int k=i+1;k<j;k++){
             int p1=matrixMultiplication(arr,i,k);
             int p2=matrixMultiplication(arr,k+1,j);
             int cost = (arr[i-1]*arr[k]*arr[j])+p1+p2;
