@@ -2,7 +2,7 @@ package Level2;
 
 import java.util.HashMap;
 
-public class Q034_CounDistinctSubSequence {
+public class Q034_CountDistinctSubSequence {
     public int distinctSubseqII(String s) {
         int n = s.length();
         int MOD = 1000000007;

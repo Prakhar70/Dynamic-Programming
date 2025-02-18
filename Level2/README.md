@@ -33,13 +33,15 @@
 
 29. Longest Common Subsequence                          --- Q029_LCS.java 
 30. Longest Palindromic Subsequence                     --- Q030_LPS.java
-31. Count Palindromic Subsequences                      
+31. Count Palindromic Subsequences                      --- Q031_CountPalindromicSubSequence.java Gfg Count Palindromic Subsequences
 32. Count Palindromic Substrings                        --- Q032_CountPalindromicSubString.java
 33. Longest Palindromic Substring                       --- Q033_LongestPalindromicSubString.java
-34. Count Distinct Subsequences                         --- Q034_CounDistinctSubSequence.java
+34. Count Distinct Subsequences                         --- Q034_CountDistinctSubSequence.java
 35. Count Distinct Palindromic Subsequences             
+
 36. Wildcard Matching Dynamic Programming               --- Q036_WildCharacterMatching.java
 37. Regular Expression Matching                         --- Q037_RegularExpression.java (Leetcode 10)
 38. Longest Common Substring                            --- Q038_LongestCommonSubString.java
 39. Longest Repeating Subsequence
-40. Edit Distance
+40. Edit Distance                                       
+41. Scramble String                                     --- Q041_ScrambleString.java Done
